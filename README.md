@@ -1,3 +1,3 @@
 # TrainingFeb
 test
-collegaS
+collega
